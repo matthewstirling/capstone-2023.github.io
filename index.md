@@ -8,30 +8,21 @@ industry. Specifically we'll investigate two problems:
 * offer acceptance and auction marketplace theory
 * next best actions modeling for carriers
 
-# Weekly Discussion and Office Hours
-Discussions and office hours will be conducted online via zoom. The schedule are as follows:
+# Staff, contact info, and office hours
 
-* Discussions: **Mondays 9:00 AM - 10:00 AM** via [Zoom](https://zoom.us/j/95627520847)
-* Office hours: **Wednesdays PM 3:00 PM - 4:00 PM** via [Zoom](https://zoom.us/j/97306913184)
+Matt Stirling
+** matt.stirling@flockfreight.com
+** Office hours: **Wednesdays PM 3:00 PM - 4:00 PM** via [Zoom](https://zoom.us/j/97306913184)
+
+Soohyun Liao
+** snam@ucsd.edu
+** Office hours: **Thursdays PM 10:00 PM - 11:00 PM** via [Zoom]() 
 
 If you'd like to schedule another time to meet, feel free to send either one of us an email. 
 
-# Staff and contact info
-* Matt Stirling - matt.stirling@flockfreight.com
-* Soohyun Liao - snam@ucsd.edu
+## Discussions
 
-
-## Schedule
-
-The first half of the fall quarter will focus on understanding the 
-freight industry, the specific problem of offer acceptance, and the specific
-problem of determining an action to take with carriers. 
-
-The latter-half of the fall quarter will introduce you to further topics,
-like auction theory approaches and next best action models to inform possible
-avenues for further research.
-
-# Section Participation
+* Discussions: **Mondays 9:00 AM - 10:00 AM** via [Zoom](https://zoom.us/j/95627520847)
 
 Participation in the weekly discussion section is *mandatory*. You are 
 responsible for the entire weekly reading/task, even if
@@ -42,6 +33,14 @@ end of the quarter.
 ---
 
 # Schedule
+
+The first half of the fall quarter will focus on understanding the 
+freight industry, the specific problem of offer acceptance, and the specific
+problem of determining an action to take with carriers. 
+
+The latter-half of the fall quarter will introduce you to further topics,
+like auction theory approaches and next best action models to inform possible
+avenues for further research.
 
 |Week|Date|Topic|
 |--|--|--|
