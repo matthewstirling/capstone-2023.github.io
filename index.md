@@ -11,11 +11,11 @@ industry. Specifically we'll investigate two problems:
 # Staff, contact info, and office hours
 
 Matt Stirling
-* matt.stirling@flockfreight.com
+* Email: matt.stirling@flockfreight.com
 * Office hours: **Wednesdays PM 3:00 PM - 4:00 PM** via [Zoom](https://zoom.us/j/97306913184)
 
 Soohyun Liao
-* snam@ucsd.edu
+* Email: snam@ucsd.edu
 * Office hours: **Thursdays PM 10:00 PM - 11:00 PM** via [Zoom]() 
 
 If you'd like to schedule another time to meet, feel free to send either one of us an email. 
