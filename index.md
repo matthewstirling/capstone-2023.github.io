@@ -11,18 +11,18 @@ industry. Specifically we'll investigate two problems:
 # Staff, contact info, and office hours
 
 Matt Stirling
-** matt.stirling@flockfreight.com
-** Office hours: **Wednesdays PM 3:00 PM - 4:00 PM** via [Zoom](https://zoom.us/j/97306913184)
+* matt.stirling@flockfreight.com
+* Office hours: **Wednesdays PM 3:00 PM - 4:00 PM** via [Zoom](https://zoom.us/j/97306913184)
 
 Soohyun Liao
-** snam@ucsd.edu
-** Office hours: **Thursdays PM 10:00 PM - 11:00 PM** via [Zoom]() 
+* snam@ucsd.edu
+* Office hours: **Thursdays PM 10:00 PM - 11:00 PM** via [Zoom]() 
 
 If you'd like to schedule another time to meet, feel free to send either one of us an email. 
 
 ## Discussions
 
-* Discussions: **Mondays 9:00 AM - 10:00 AM** via [Zoom](https://zoom.us/j/95627520847)
+**Mondays 9:00 AM - 10:00 AM** via [Zoom](https://zoom.us/j/95627520847)
 
 Participation in the weekly discussion section is *mandatory*. You are 
 responsible for the entire weekly reading/task, even if
