@@ -16,7 +16,7 @@ Matt Stirling
 
 Soohyun Liao
 * Email: snam@ucsd.edu
-* Office hours: **Thursdays PM 10:00 PM - 11:00 PM** via [Zoom]() 
+* Office hours: **Thursdays PM 10:00 PM - 11:00 PM** via [Zoom](https://ucsd.zoom.us/j/97180914104) 
 
 If you'd like to schedule another time to meet, feel free to send either one of us an email. 
 
