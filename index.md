@@ -8,7 +8,7 @@ industry. Specifically we'll investigate two problems:
 * offer acceptance and auction marketplace theory
 * next best actions modeling for carriers
 
-# Staff, contact info, and office hours
+## Staff, contact info, and office hours
 
 Matt Stirling
 * Email: matt.stirling@flockfreight.com
@@ -32,7 +32,7 @@ end of the quarter.
 
 ---
 
-# Schedule
+## Schedule
 
 The first half of the fall quarter will focus on understanding the 
 freight industry, the specific problem of offer acceptance, and the specific
