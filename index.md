@@ -12,11 +12,11 @@ industry. Specifically we'll investigate two problems:
 
 Matt Stirling
 * Email: matt.stirling@flockfreight.com
-* Office hours: **Wednesdays PM 3:00 PM - 4:00 PM** via [Zoom](https://zoom.us/j/97306913184)
+* Office hours: **Wednesdays 3:00 PM - 4:00 PM** via [Zoom](https://zoom.us/j/97306913184)
 
 Soohyun Liao
 * Email: snam@ucsd.edu
-* Office hours: **Thursdays PM 10:00 PM - 11:00 PM** via [Zoom](https://ucsd.zoom.us/j/97180914104) 
+* Office hours: **Thursdays 10:00 AM - 11:00 AM** via [Zoom](https://ucsd.zoom.us/j/97180914104) 
 
 If you'd like to schedule another time to meet, feel free to send either one of us an email. 
 
