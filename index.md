@@ -45,13 +45,13 @@ avenues for further research.
 |Week|Date|Topic|
 |--|--|--|
 |1|9/26|[Introduction to Class]({{"weeks/01-Introduction" | absolute_url }})|
-|2|10/3|Freight Industry Basics
+|2|10/3|[Freight Industry and Offer Acceptance]({{"weeks/02-Freight-Basics-Offer-Acceptance" | absolute_url }})|
 |3|10/10|No Class
-|4|10/17|TBD
-|5|10/24|TBD
-|6|10/31|TBD
-|7|11/7|TBD
-|8|11/14|TBD
+|4|10/17|Auction Approaches to Offer Acceptance
+|5|10/24|Other Approaches to Offer Acceptance
+|6|10/31|Intro to Next Best Action Theory
+|7|11/7|No Class
+|8|11/14|Approaches to NBA
 |9|11/21|TBD
 |10|11/28|Present Proposals|
 
