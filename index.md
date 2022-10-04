@@ -12,7 +12,7 @@ industry. Specifically we'll investigate two problems:
 
 Matt Stirling
 * Email: matt.stirling@flockfreight.com
-* Office hours: **Wednesdays 3:00 PM - 4:00 PM** via [Zoom](https://zoom.us/j/97306913184)
+* Office hours: **Wednesdays 3:00 PM - 4:00 PM** via [Zoom](https://zoom.us/j/97306913184), passcode: 268626
 
 Soohyun Liao
 * Email: snam@ucsd.edu
@@ -22,7 +22,7 @@ If you'd like to schedule another time to meet, feel free to send either one of 
 
 ## Discussions
 
-**Mondays 9:00 AM - 10:00 AM** via [Zoom](https://zoom.us/j/95627520847)
+**Mondays 9:00 AM - 10:00 AM** via [Zoom](https://zoom.us/j/95627520847), passcode: B3Jzsa
 
 Participation in the weekly discussion section is *mandatory*. You are 
 responsible for the entire weekly reading/task, even if
