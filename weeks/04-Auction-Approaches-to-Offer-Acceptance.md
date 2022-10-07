@@ -1,6 +1,6 @@
 # Freight Industry and Offer Acceptance 
 
-## Week 2 Homework due prior to class
+## Homework due prior to class
 
 Download the orders and offers datasets from Google Drive. The links should 
 be in your email. Please reach out if you cannot locate the datasets.
