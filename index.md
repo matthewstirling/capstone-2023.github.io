@@ -47,7 +47,7 @@ avenues for further research.
 |1|9/26|[Introduction to Class]({{"weeks/01-Introduction" | absolute_url }})|
 |2|10/3|[Freight Industry and Offer Acceptance]({{"weeks/02-Freight-Basics-Offer-Acceptance" | absolute_url }})|
 |3|10/10|No Class
-|4|10/17|Auction Approaches to Offer Acceptance
+|4|10/17|[Auction Approaches to Offer Acceptance]({{"weeks/04-Auction-Approaches-to-Offer-Acceptance" | absolute_url }})|
 |5|10/24|Other Approaches to Offer Acceptance
 |6|10/31|Intro to Next Best Action Theory
 |7|11/7|No Class
