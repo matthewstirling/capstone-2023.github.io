@@ -2,8 +2,9 @@
 
 ## Homework due prior to class
 
-Download the orders and offers datasets from Google Drive. The links should 
-be in your email. Please reach out if you cannot locate the datasets.
+Download the [orders](https://drive.google.com/file/d/1bXMKg5p1jrk8uvCxT5SYAlYXBOOCJcUy) and 
+[offers](https://drive.google.com/file/d/1N74nU6cxXWkchkAj12eOHvMU7b5DIS9u) datasets from Google Drive. 
+Please reach out if you cannot locate the datasets.
 
 Homework:
 - For the FTL freight only, apply the [Secretary Approach we discussed in Week 2]({{"weeks/02-Freight-Basics-Offer-Acceptance" | absolute_url }}):
@@ -20,5 +21,6 @@ Homework:
 This week we will discuss the homework assignment and auction approaches to 
 the problem.
 
-Readings for the discussion 
-TBD
+## Discussion Links
+* No slide deck this week.
+* [Recording](https://drive.google.com/file/d/1bT5gXNATrpLFezSvEhJddeBlqM86JPgs) 
