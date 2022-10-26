@@ -26,11 +26,13 @@ If you'd like to schedule another time to meet, feel free to send either one of 
 * Nima Yazdani - niyazdan@ucsd.edu
 * Keagan Benson - ktbenson@ucsd.edu
 * Radu Manea - rmanea@ucsd.edu
+* Benson Duong - beduong@ucsd.edu
 
 ### Team ??:
 * Giho Kim - gik013@ucsd.edu
 * Tae Kun Kim - tkkim@ucsd.edu
 * Joyce Yan - q1yan@ucsd.edu
+* Jonathan Dong - jqdong@ucsd.edu
 
 ## Discussions
 
