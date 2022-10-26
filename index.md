@@ -63,7 +63,7 @@ avenues for further research.
 |3|10/10|No Class
 |4|10/17|[Auction Approaches to Offer Acceptance]({{"weeks/04-Auction-Approaches-to-Offer-Acceptance" | absolute_url }})|
 |5|10/24|[Other Approaches to Offer Acceptance]({{"weeks/05-Other-Approaches-to-Offer-Acceptance" | absolute_url }})|
-|6|10/31|[Intro to Next Best Action Theory]
+|6|10/31|[Intro to Next Best Action Theory]({{"weeks/06-Intro-to-Next-Best-Action-Theory" | absolute_url }})|
 |7|11/7|No Class
 |8|11/14|Approaches to NBA
 |9|11/21|TBD
