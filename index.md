@@ -18,7 +18,19 @@ Soohyun Liao
 * Email: snam@ucsd.edu
 * Office hours: **Thursdays 10:00 AM - 11:00 AM** via [Zoom](https://ucsd.zoom.us/j/97180914104) 
 
-If you'd like to schedule another time to meet, feel free to send either one of us an email. 
+If you'd like to schedule another time to meet, feel free to send either one of us an email.
+
+## Groups
+
+### Team Rayquaza:
+* Nima Yazdani - niyazdan@ucsd.edu
+* Keagan Benson - ktbenson@ucsd.edu
+* Radu Manea - rmanea@ucsd.edu
+
+### Team ??:
+* Giho Kim - gik013@ucsd.edu
+* Tae Kun Kim - tkkim@ucsd.edu
+* Joyce Yan - q1yan@ucsd.edu
 
 ## Discussions
 
