@@ -12,7 +12,7 @@ the next most likely events](https://www.researchgate.net/publication/337651930_
 * [Code base from two papers' author](https://github.com/fau-is/next-best-action)
 
 ## Discussion Links
-* [Slide Deck]
+* [Slide Deck](https://docs.google.com/presentation/d/1rM4XgGmR7jPZbGTxJnDYe-V091FzNYcNP5ZavL6OZNs/)
 * [Recording]
 
 
