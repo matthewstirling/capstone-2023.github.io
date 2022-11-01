@@ -1,4 +1,4 @@
-# Freight Industry and Offer Acceptance
+# Introduction to Next Best Action Theory
 
 ## Topics
 
@@ -13,6 +13,6 @@ the next most likely events](https://www.researchgate.net/publication/337651930_
 
 ## Discussion Links
 * [Slide Deck](https://docs.google.com/presentation/d/1rM4XgGmR7jPZbGTxJnDYe-V091FzNYcNP5ZavL6OZNs/)
-* [Recording]
+* [Recording](https://drive.google.com/file/d/1hTco-pOd9ZiZkDFLlM7aGP45vWJoI4L6/)
 
 

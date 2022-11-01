@@ -1,4 +1,4 @@
-# Freight Industry and Offer Acceptance
+# Other Approaches to Offer Acceptance
 
 ## Topics
 
