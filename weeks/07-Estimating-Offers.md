@@ -7,7 +7,7 @@ We will discuss estimating how many offers we will receive and introduce non-hom
 will cover some quick points on how we might numerically estimate this object.
 
 ## Discussion Links
-* Slide Deck
-* Recording
+* [Slide Deck](https://docs.google.com/presentation/d/17Nhb3EBX4uruHIAP-PNNgi9NJnDxR22IbYsYcUbRFJQ/edit?usp=sharing)
+* No recording this week
 
 
