@@ -65,7 +65,7 @@ avenues for further research.
 |5|10/24|[Other Approaches to Offer Acceptance]({{"weeks/05-Other-Approaches-to-Offer-Acceptance" | absolute_url }})|
 |6|10/31|[Intro to Next Best Action Theory]({{"weeks/06-Intro-to-Next-Best-Action-Theory" | absolute_url }})|
 |7|11/7|[Estimating Offers]({{"weeks/07-Estimating-Offers" | absolute_url }})|
-|8|11/14|Approaches to NBA
+|8|11/14|[Approaches to NBA]({{"weeks/08-Approaches-to-Next-Best-Action" | absolute_url }})|
 |9|11/21|TBD
 |10|11/28|Present Proposals|
 
