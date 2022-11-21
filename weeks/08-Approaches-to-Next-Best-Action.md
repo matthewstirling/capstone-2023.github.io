@@ -12,7 +12,7 @@ This week we will discuss introduce the data for the next best action problem an
 [previous readings]({{"weeks/06-Intro-to-Next-Best-Action-Theory" | absolute_url }}).
 
 ## Discussion Links
-* Slide Deck
+* [Slide Deck](https://docs.google.com/presentation/d/1Gj9pC4tyd1AaUiRTCmqfgp99wjjvfKTcy0B0ZcrRH6s)
 * Recording
 
 
