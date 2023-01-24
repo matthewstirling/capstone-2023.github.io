@@ -8,7 +8,7 @@ technique to create clusters of geographies using DBScan.
 
 ## Data Links
 * [Carrier Data](https://drive.google.com/file/d/1zuNImQoQIVj06oeNNXN2Ucg4ANjruOHJ)
-* [Carrier Capacity Entry Data]()
+* [Carrier Capacity Entry Data](https://drive.google.com/file/d/1Ow-4w7lRVAmRgIjK0nas-39TBTZk5IoT)
 * [Updated Data Dictionary](https://docs.google.com/spreadsheets/d/1o7jKwc8DPlOu5PPtO9F0IioAnHef8Y7EohQD9_1Qwd4)
 
 ## Discussion Links
