@@ -7,8 +7,9 @@ as additional data sets that could improve the offer decision engines the teams 
 technique to create clusters of geographies using DBScan.
 
 ## Data Links
-* [Carrier Data]()
+* [Carrier Data](https://drive.google.com/file/d/1zuNImQoQIVj06oeNNXN2Ucg4ANjruOHJ)
 * [Carrier Capacity Entry Data]()
+* [Updated Data Dictionary](https://docs.google.com/spreadsheets/d/1o7jKwc8DPlOu5PPtO9F0IioAnHef8Y7EohQD9_1Qwd4)
 
 ## Discussion Links
 * [Slide Deck](https://docs.google.com/presentation/d/1T98kdIfIwNG4IPR1Qz7RZ0ZxQlY4sfAC2TxrExlDG1U)
