@@ -12,5 +12,5 @@ technique to create clusters of geographies using DBScan.
 
 ## Discussion Links
 * [Slide Deck](https://docs.google.com/presentation/d/1T98kdIfIwNG4IPR1Qz7RZ0ZxQlY4sfAC2TxrExlDG1U)
-* [Recording]()
-
+* [Recording](https://flockfreight.zoom.us/rec/share/9DwNuk7XfhgiDTVKfXFfHYRbwjFcc7mmMcMTqFwmYJoZE1xRxV_eaqOhlSqcSdPB.R1NgNQi8ir3d-_2Y)
+** the passcode for the recording is uc1ED#%5
