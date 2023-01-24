@@ -57,7 +57,7 @@ the presentation, poster, and report.
 |--|--|--|
 |1|1/9|[Review of Fall Project Submissions]({{"weeks/11-Review-fall-project-submissions" | absolute_url }})|
 |2|1/16|No Class - MLK Day
-|3|1/23|TBD
+|3|1/23|[Team updates and carrier data intro]({{"weeks/13-team-update-carrier-data" | absolute_url }})|
 |4|1/30|TBD
 |5|2/6|TBD
 |6|2/13|TBD
