@@ -59,7 +59,7 @@ the presentation, poster, and report.
 |2|1/16|No Class - MLK Day
 |3|1/23|[Team updates and carrier data intro]({{"weeks/13-team-update-carrier-data" | absolute_url }})|
 |4|1/30|[Team updates]({{"weeks/14-team-update-discussion" | absolute_url }})|
-|5|2/6|TBD
+|5|2/6|[Team updates and system architecture]({{"weeks/15-team-update-system-architecture" | absolute_url }})|
 |6|2/13|TBD
 |7|2/20|No Class - President's Day
 |8|2/27|TBD
