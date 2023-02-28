@@ -62,7 +62,7 @@ the presentation, poster, and report.
 |5|2/6|[Team updates and system architecture]({{"weeks/15-team-update-system-architecture" | absolute_url }})|
 |6|2/13|[Team updates and multi-armed bandits]({{"weeks/16-team-update-multi-armed-bandits" | absolute_url }})|
 |7|2/20|No Class - President's Day
-|8|2/27|TBD
+|8|2/27|[Team updates and report feedback review]({{"weeks/17-team-update-report-feedback-review" | absolute_url }})|
 |9|3/6|Student-driven Discussion
 |10|3/13|Student-driven Discussion
 
